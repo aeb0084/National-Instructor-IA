@@ -18,7 +18,7 @@ Note: The final data set used in analysis is available for public use. Additiona
 
 Analysis and File Names| Brief Description | Link to File
 -------------------------------------|------------------------------------ | -----------------------------------------------------
-Suvey Instrument            | Survey given to participants |   [Survey File](National Survey.pdf)
+Suvey Instrument            | Survey given to participants |   [Survey File](National_Survey.pdf)
 Final Data File            | Final data file used in survey analysis |   [Deidentified Data File]()
 
 ## Supplemental Tables
