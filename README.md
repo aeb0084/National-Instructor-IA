@@ -23,7 +23,7 @@ Final Data File            | Final data file used in survey analysis |   [Deiden
 
 ## Supplemental Tables
 
-<img src="Supplemental Table 1" width="1200">
+<img src="SF1.jpg" width="1200">
 
 <img src="SF2_Page_1.jpg" width="1200">
 <img src="SF2_Page_2.jpg" width="1200">
