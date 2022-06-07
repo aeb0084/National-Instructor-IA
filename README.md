@@ -13,13 +13,14 @@ This repository holds all supplemental materials for "How and why instructors di
 
 ### Quick Key to File Directory: Detailed Descriptions of file use can be found below.
 
-Note: The final data set used in analysis is available for public use. Additionally, deidentified raw survey data is available here. Due to IRB Restrictions all data files used in analysis that contain institutional information prior to the final merged and deidientified data are available upon direct request. Following approval, all deidentified data including institutional info will be shared directly.
+Note: The final data set used in analysis is available for public use. Additionally, deidentified raw survey data is available here. Due to IRB Restrictions all data files used in analysis that contain institutional information prior to the final merged and deidientified data are available upon direct request. Note, some data columns are redacted from the raw data, as they contain identifiable information. Those columns are shaded in gray, are are not rqeuired for replicating primary results. 
 
 
 Analysis and File Names| Brief Description | Link to File
 -------------------------------------|------------------------------------ | -----------------------------------------------------
 Suvey Instrument            | Survey given to participants |   [Survey File](National_Survey.pdf)
-Final Data File            | Final data file used in survey analysis |   [Deidentified Data File]()
+Final Data File- Quantitative            | Final quantitative data file used in survey analysis |   [Quant Deidentified Data File](National_Survey_Quantitative_deident.xlsx)
+Final Data File- Qualitative            | Final qualitative data file used in survey analysis |   [Qual Deidentified Data File](National_Survey_qualitative_deident.xlsx)
 
 ## Supplemental Tables
 
