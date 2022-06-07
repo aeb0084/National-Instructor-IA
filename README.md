@@ -19,7 +19,7 @@ Note: The final data set used in analysis is available for public use. Additiona
 Analysis and File Names| Brief Description | Link to File
 -------------------------------------|------------------------------------ | -----------------------------------------------------
 Suvey Instrument            | Survey given to participants |   [Survey File](National_Survey.pdf)
-Final Data File- Quantitative            | Final quantitative data file used in survey analysis |   [Quant Deidentified Data File](National_Survey_Quantitative_deident.xlsx)
+Final Data File- Quantitative            | Final quantitative data file used in survey analysis |   [Quant Deidentified Data File](National_Survey_Quantitative_deident.csv)
 Final Data File- Qualitative            | Final qualitative data file used in survey analysis |   [Qual Deidentified Data File](National_Survey_qualitative_deident.xlsx)
 
 ## Supplemental Tables
