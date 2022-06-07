@@ -1,6 +1,7 @@
 # How and why instructors discuss controversial topics in biology.
  
 Abby E. Beatty, Jeremiah Henning, Emily P. Driessen, Amanda D. Clark, Robin Costello, Sharday Ewell, Randy Klabacka, Todd Lamb, Kimberly Mulligan, Sheritta Fagbodum, & Cissy J. Ballen  
+
 *Corresponding author: aeb0084@auburn.edu
 
 This repository holds all supplemental materials for "How and why instructors discuss controversial topics in biology".
@@ -20,12 +21,12 @@ Analysis and File Names| Brief Description | Link to File
 Suvey Instrument            | Survey given to participants |   [Survey File]()
 Final Data File            | Final data file used in survey analysis |   [Deidentified Data File]()
 
-# Supplemental Tables
+## Supplemental Tables
 
 <img src="Supplemental Table 1" width="1200">
 
 <img src="Supplemental Table 2" width="1200">
 
 
-# Statistical and Data Visualization Code
+## Statistical and Data Visualization Code
 
